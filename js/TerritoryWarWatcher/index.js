@@ -5,5 +5,4 @@ const tt = {
     }
 };
 
-// Export the object to make it accessible outside the file
 export default tt;
